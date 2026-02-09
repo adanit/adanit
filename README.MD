@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./adanit/assets/images/Banner.png" alt="Certifications Banner" />
+  <img src="assets/images/Banner.png" alt="Certifications Banner" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Adan Martinez</h1>
