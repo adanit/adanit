@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/banner.jpg" />
+  <img src="banner.jpg" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Adan Martinez</h1>
