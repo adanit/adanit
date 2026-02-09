@@ -1,4 +1,6 @@
-![Certifications Banner](./adanit/assets/images/Banner.png)
+<p align="center">
+  <img src="./adanit/assets/images/banner.png" alt="Certifications Banner" />
+</p>
 
 <h1 align="left">Hi 👋, I'm Adan Martinez</h1>
 <h3 align="center">I’m passionate about technology, currently working on observability, cloud, DevOps, Terraform, and more.</h3>
