@@ -3,7 +3,15 @@
 </p>
 
 <h1 align="left">Hi 👋, I'm Adan Martinez</h1>
-<h3 align="center">I’m passionate about technology, currently working on observability, cloud, DevOps, Terraform, and more.</h3>
+
+I’m passionate about technology, currently working on observability, cloud, DevOps, Terraform, and more.
+
+
+
+-   💻 I’m currently working as 
+-   📝 I regularly write articles on 
+-   💬 Ask me about Microsoft Azure, Terraform and DevOps 
+-   🌱 Currently learning **DevOps, CI/CD, Terraform, Ansible and Observability**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adanit&label=Profile%20views&color=0e75b6&style=flat" alt="adanit" /> </p>
 
